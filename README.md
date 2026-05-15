@@ -1,1 +1,7 @@
 # ColetApp
+
+O ColetAPP é um aplicativo móvel desenvolvido para apoiar a coleta de dados georreferenciados e a criação de bases de dados voltadas à pesquisa científica e tecnológica. A aplicação permite obter automaticamente a localização do dispositivo por meio do GPS, informando também a precisão aproximada da coordenada capturada, o que contribui para maior confiabilidade dos dados coletados em campo.
+
+Com uma interface simples e prática, o aplicativo facilita o registro de informações geográficas diretamente pelo usuário, tornando o processo de coleta mais ágil, organizado e acessível. O ColetAPP pode ser utilizado em diferentes contextos de pesquisa que demandam dados espaciais, como estudos ambientais, agrícolas, urbanos e geográficos, auxiliando pesquisadores e equipes de campo na construção de conjuntos de dados consistentes e estruturados.
+
+Além disso, o aplicativo foi projetado para funcionar mesmo sem conexão com a internet durante o uso em campo, permitindo que os dados sejam coletados offline e armazenados localmente no dispositivo. Posteriormente, as bases de dados coletadas podem ser exportadas em formato de planilhas eletrônicas, facilitando a análise, o compartilhamento e a integração das informações com outras ferramentas e sistemas de pesquisa.
